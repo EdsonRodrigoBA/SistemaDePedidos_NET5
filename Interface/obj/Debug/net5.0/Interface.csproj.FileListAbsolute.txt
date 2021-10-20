@@ -1,0 +1,15 @@
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\bin\Debug\net5.0\Interface.deps.json
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\bin\Debug\net5.0\Interface.dll
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\bin\Debug\net5.0\ref\Interface.dll
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\bin\Debug\net5.0\Interface.pdb
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\bin\Debug\net5.0\Domain.dll
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\bin\Debug\net5.0\Domain.pdb
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.csprojAssemblyReference.cache
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.csproj.CopyComplete
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.dll
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\ref\Interface.dll
+C:\Users\edson\source\repos\Course_CPM_Pedidos\Interface\obj\Debug\net5.0\Interface.pdb
